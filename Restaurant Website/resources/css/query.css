@@ -1,0 +1,63 @@
+
+/* big Tabs to  1200px*/
+@media only screen and (max-width:1200px){
+    
+    
+    
+    .head-text-box{ width:100%;padding: 0 2%;   }
+    
+    .row{padding: 0 2%;}
+    
+}
+
+
+
+
+
+/*  Small TABS to BIg TAbs */
+@media only screen and (max-width:1023px){
+    
+    
+    body{ font-size:18px; }
+    section{padding: 60px 0;}
+    
+    .firstp{                                                                                                        
+    
+    width: 80%;
+    margin-left: 10%;
+   
+}
+    
+    
+    .section-steps h2{ margin: 0;}
+    
+    .section-cities h2{ margin-top: 0;}
+    .section-testomonial h2{margin-bottom:20;}
+    .section-testomonial h2{margin-top: 0;}
+    
+    
+
+}
+
+
+
+
+/*  small phones to small tabs 481-767px */
+@media only screen and (max-width:767px){
+    
+    
+    /* HAMBURGER*/
+    
+    .mobile-nav-icon{display: inline-block;}
+    
+}
+
+
+
+/*  Small devices Mobile phones */
+@media only screen and (max-width:480px){
+    
+    
+    
+    
+}
